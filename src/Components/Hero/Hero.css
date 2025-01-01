@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+
+}
+
+.hero{
+    height: 100vh;
+    background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);
+    display: flex;
+    margin-top: 80px;
+    
+}
+.hero-left{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding: 180px;
+    line-height: 1.1;
+}
+.hero-left h2{
+    color: #090909;
+    font-size: 26px;
+    font-weight: 600;
+}
+.hero-left p{
+    color: #171717;
+    font-size: 70px;
+    font-weight: 700;
+}
+.hero-hend-icon{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.hero-hend-icon img{
+    width: 105px;
+}
+.hero-latest-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 310px;
+    height: 70px;
+    border-radius: 75px;
+    margin-top: 30px;
+    background: #ff4141;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.hero-right {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Prevents the image from overflowing */
+    /* position: relative; Helps position the image correctly */
+}
+
+.hero-right img {
+    max-width: 100%; /* Ensures the image doesn’t go beyond container */
+    height: auto; /* Maintains aspect ratio */
+    object-fit: cover; /* Ensures it fits neatly within the space */
+    margin-top: 0; /* Adjust as needed to align with the nav bar */
+    border-radius: 100px;
+    margin-right: 40px;
+}
