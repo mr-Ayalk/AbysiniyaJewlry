@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AbysiniyaJewlry/static/css/main.af4d0b0e.css",
+    "main.js": "/AbysiniyaJewlry/static/js/main.dd411ce3.js",
+    "static/js/488.6efa3360.chunk.js": "/AbysiniyaJewlry/static/js/488.6efa3360.chunk.js",
+    "static/media/newimage_1.jpg": "/AbysiniyaJewlry/static/media/newimage_1.8ce53a8373ea16f4f3fb.jpg",
+    "static/media/logo_1.webp": "/AbysiniyaJewlry/static/media/logo_1.f927e70f1595285e2b08.webp",
+    "static/media/image_2.jpg": "/AbysiniyaJewlry/static/media/image_2.bfba75c26972f92f5b63.jpg",
+    "static/media/image_3.jpg": "/AbysiniyaJewlry/static/media/image_3.aee8b0f9d3f71db5ff24.jpg",
+    "static/media/image_11.jpg": "/AbysiniyaJewlry/static/media/image_11.1814d01ebf2c2f930f28.jpg",
+    "static/media/image_18.jpg": "/AbysiniyaJewlry/static/media/image_18.f5417e396ea0ec4f2c1f.jpg",
+    "static/media/image_7.jpg": "/AbysiniyaJewlry/static/media/image_7.f5417e396ea0ec4f2c1f.jpg",
+    "index.html": "/AbysiniyaJewlry/index.html",
+    "main.af4d0b0e.css.map": "/AbysiniyaJewlry/static/css/main.af4d0b0e.css.map",
+    "main.dd411ce3.js.map": "/AbysiniyaJewlry/static/js/main.dd411ce3.js.map",
+    "488.6efa3360.chunk.js.map": "/AbysiniyaJewlry/static/js/488.6efa3360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af4d0b0e.css",
+    "static/js/main.dd411ce3.js"
+  ]
+}
